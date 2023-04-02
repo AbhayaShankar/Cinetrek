@@ -1,0 +1,110 @@
+.cards {
+  display: inline-block;
+  transition: transform 0.2s;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 0.19rem;
+  cursor: pointer;
+  width: 250px;
+  height: 200px;
+  z-index: 0;
+  border: 1px solid rgb(99, 99, 99);
+  background-color: rgb(150, 150, 150, 0.05);
+  backdrop-filter: blur(20px);
+}
+
+.cards:hover {
+  transform: scale(1.2);
+  transition: 150ms linear;
+  z-index: 1000;
+  background-color: rgb(150, 150, 150, 0.15);
+
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.cards__img {
+  width: 100%;
+  min-height: 100%;
+  transform: translate(-50%, -50%);
+  position: relative;
+  object-fit: cover;
+  left: 50%;
+  top: 50%;
+  /* backdrop-filter: blur(25px); */
+}
+
+/* .cards__overlay { */
+/* display: flex;
+  flex-direction: column;
+  position: absolute;
+  padding: 0 1rem 1rem 1rem;
+  bottom: 0px;
+  height: 290px;
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+  justify-content: flex-end;
+  background-image: linear-gradient(rgb(0, 0, 0, 0), rgb(0, 0, 0, 1));
+  opacity: 0;
+  transition: opacity 0.2s; */
+/* } */
+
+/* .cards__overlay:hover {
+  opacity: 1;
+}
+
+.card__title {
+  font-weight: 900;
+  font-size: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.card__desc {
+  font-style: italic;
+  font-size: 0.75rem;
+  margin-bottom: 0.25rem;
+} */
+
+.cards__overlay {
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 20px;
+  /* background-color: aqua; */
+  z-index: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-image: linear-gradient(rgb(0, 0, 0, 0), rgb(0, 0, 0, 1));
+  padding: 15px 10px;
+  justify-content: flex-end;
+  opacity: 0;
+  transition: opacity 200ms;
+}
+
+.cards__overlay:hover {
+  opacity: 1;
+}
+
+.cards__title {
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: rgb(174, 174, 174);
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.cards__desc {
+  font-size: 12px;
+  color: azure;
+}
+
+@media only screen and (min-width: 380px) and(max-width: 600px) {
+  .cards__img {
+    height: 200px;
+    width: 300px;
+  }
+}

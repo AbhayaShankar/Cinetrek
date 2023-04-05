@@ -4,6 +4,7 @@
 #### Welcome to my Cinetrek App - **Discover, Explore and Enjoy Movies with Cinetrek** , built with ReactJS and MaterialUI With this app, you can easily search for movies, filter them by Popularity , Upcoming release dates, and Top Rated , and view reviews from other users.
 ___
 
+
 Things I learnt from this Project : 
 
 - State Management

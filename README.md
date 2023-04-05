@@ -19,11 +19,11 @@
 ![Error page](https://user-images.githubusercontent.com/113185442/230163699-4d5f6232-b770-4cc8-a5f4-d421b6482e58.jpg)
 
 
-You can visit the app using this link and do tell me what do you think of the app.
+You can visit the app using this [link](https://cinetrek.netlify.app/) and do tell me what do you think of the app.
 I appreciate any type of review whether its a compliment or a better way or something to improve the app experience
 
 Connect with me on 
 
-- [Twitter](https://twitter.com/AbhayaShankar2)
+- [Abhaya's Twitter](https://twitter.com/AbhayaShankar2)
 
-- [Linkedin](https://www.linkedin.com/in/abhayashankar/)
+- [Abhaya's Linkedin](https://www.linkedin.com/in/abhayashankar/)

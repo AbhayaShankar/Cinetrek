@@ -4,6 +4,26 @@
 #### Welcome to my Cinetrek App - **Discover, Explore and Enjoy Movies with Cinetrek** , built with ReactJS and MaterialUI With this app, you can easily search for movies, filter them by Popularity , Upcoming release dates, and Top Rated , and view reviews from other users.
 ___
 
+Things I learnt from this Project : 
+
+- State Management
+
+- Routing
+
+- API 
+
+- get request
+
+- Carousel npm package
+
+- Skeleton Loading
+
+- React Lazy Load ( Code Splitting )
+
+- Search field application
+
+- CSS best practices
+
 
 [Cinetrek App Link](https://cinetrek.netlify.app/)
 
@@ -32,3 +52,7 @@ Connect with me on
 - [Abhaya's Twitter](https://twitter.com/AbhayaShankar2)
 
 - [Abhaya's Linkedin](https://www.linkedin.com/in/abhayashankar/)
+
+
+P.s. : I have used TMDB API for the data fetching and rendering.
+Designed by me.

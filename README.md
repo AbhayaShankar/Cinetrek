@@ -56,4 +56,5 @@ Connect with me on
 
 
 P.s. : I have used TMDB API for the data fetching and rendering.
+
 Designed by me.

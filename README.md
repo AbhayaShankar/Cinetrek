@@ -1,70 +1,62 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cinetrek App
 
-## Available Scripts
+#### Welcome to my Cinetrek App - **Discover, Explore and Enjoy Movies with Cinetrek** , built with ReactJS and MaterialUI With this app, you can easily search for movies, filter them by Popularity , Upcoming release dates, and Top Rated , and view reviews from other users.
+___
 
-In the project directory, you can run:
 
-### `npm start`
+Things I learnt from this Project : 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- State Management
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Routing
 
-### `npm test`
+- API 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- get request
 
-### `npm run build`
+- Carousel npm package
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Skeleton Loading
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React Lazy Load ( Code Splitting )
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Search field application
 
-### `npm run eject`
+- CSS best practices
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Cinetrek App Link](https://cinetrek.netlify.app/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## A quick glance to the App : 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![HomePage1](https://user-images.githubusercontent.com/113185442/230163506-0f3a72ad-3481-478f-abc8-a66a85072039.jpg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![HomePage2](https://user-images.githubusercontent.com/113185442/230163525-49edbaf8-f942-4862-a196-35008d8971a3.jpg)
 
-### Code Splitting
+![HomePage4](https://user-images.githubusercontent.com/113185442/230163643-7a9790e3-1eab-464f-b544-0f00cb1fd059.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![MovieDetails1](https://user-images.githubusercontent.com/113185442/230163672-1175c97c-17be-44b4-b8b4-a54592bdcb12.jpg)
 
-### Analyzing the Bundle Size
+![About1](https://user-images.githubusercontent.com/113185442/230163728-5537cdfe-0830-451a-b22a-b7f50d75a023.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![About2](https://user-images.githubusercontent.com/113185442/230163746-d1ac3f07-622f-4092-9831-b0ca8bc2b5f2.jpg)
 
-### Making a Progressive Web App
+![Error page](https://user-images.githubusercontent.com/113185442/230163699-4d5f6232-b770-4cc8-a5f4-d421b6482e58.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+You can visit the app using this [link](https://cinetrek.netlify.app/) and do tell me what do you think of the app.
+I appreciate any type of review whether its a compliment or a better way or something to improve the app experience
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Connect with me on 
 
-### Deployment
+- [Abhaya's Twitter](https://twitter.com/AbhayaShankar2)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- [Abhaya's Linkedin](https://www.linkedin.com/in/abhayashankar/)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+P.s. : I have used TMDB API for the data fetching and rendering.
+
+Designed by me.

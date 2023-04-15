@@ -25,6 +25,8 @@ Things I learnt from this Project :
 
 - CSS best practices
 
+- Responsive Designing
+
 
 [Cinetrek App Link](https://cinetrek.netlify.app/)
 
@@ -45,6 +47,14 @@ Things I learnt from this Project :
 ![About2](https://user-images.githubusercontent.com/113185442/230163746-d1ac3f07-622f-4092-9831-b0ca8bc2b5f2.jpg)
 
 ![Error page](https://user-images.githubusercontent.com/113185442/230163699-4d5f6232-b770-4cc8-a5f4-d421b6482e58.jpg)
+
+At the Same Time this App is complete Mobile Responsive as well...
+
+![Home Page](https://user-images.githubusercontent.com/113185442/232241784-13022c18-8210-47bf-b2a7-0b049ac1c2b1.jpg)
+
+![Movie Detail Page](https://user-images.githubusercontent.com/113185442/232241638-84c928b7-e435-4028-afda-9445b14f4486.jpg)
+
+![About](https://user-images.githubusercontent.com/113185442/232241790-3dbe87cf-b202-4a77-a7f9-f191d9065e38.jpg)
 
 
 You can visit the app using this [link](https://cinetrek.netlify.app/) and do tell me what do you think of the app.
